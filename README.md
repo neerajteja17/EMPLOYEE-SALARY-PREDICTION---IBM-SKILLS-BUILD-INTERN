@@ -94,9 +94,7 @@ streamlit run streamlit_app.py
 
 ## 🧑‍💻 Author
 
-- **Your Name** – [yourgithub](https://github.com/yourusername)
-
----
+NEERAJ
 
 ## 📄 License
 
